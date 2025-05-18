@@ -1,11 +1,18 @@
-# The Mandalorian
+# The Mandalorian - Season 3 Trailer Website
 
-The Mandalorian is a simple website designed to show the series` third season trailer using HTML, CSS and JavaScript. 
+The Mandalorian is a simple website designed to show the series` third season trailer using HTML, CSS and JavaScript.
 
-## What I learned
+## Project Overview
 
-With this project I was able to learn the basics of coding a website and adding it to GitHub. I'm really excited to post new projects and gain more knowledge of coding!
+This project features:
+- A responsive layout with custom styles.
+- An embedded trailer video that can be opened in a modal window.
+- Clean and organized code structure with separate folders for CSS, JavaScript, images, and video.
 
-## This is my first project of all!
+## Learning Experience
+
+With this project I was able to learn the basics of coding a website and adding it to GitHub. It was my first lading page project.
+
+## Feedback
 
 Opinions and tips of all kinds are welcome!
